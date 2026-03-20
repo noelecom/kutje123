@@ -297,9 +297,10 @@
         "testimonial_adGqMU": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/Ad0fbba6adfa6496d9c0c9908d2cca638j_jpg_960x960q75_jpg.avif",
             "stars_count": 5,
-            "text": "<p>'This BRC thing is insane. It really does work!.'</p>",
-            "author": "- KAYA <3 BRC"
+            "text": "<p>Devolución súper fácil cuando pedí una talla de más. Sin complicaciones<br/></p>",
+            "author": "Ana P"
           }
         }
       },
