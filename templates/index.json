@@ -165,7 +165,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "collection": "apr-vrouwen",
+        "collection": "vestidos",
         "products": [],
         "full_width": true,
         "stack_products": false,
@@ -174,7 +174,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "New for Her",
+        "title": "Nuestras favoritas",
         "content": "",
         "link_url": "",
         "link_text": "",
