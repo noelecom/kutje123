@@ -279,17 +279,19 @@
         "testimonial_ETttU4": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/A333003cec0f24c9988288e6ff6c293ffp_jpeg_960x960q75_jpeg.avif",
             "stars_count": 5,
-            "text": "<p>'The glazing milk is definitely my new staple in my routine!'</p>",
-            "author": "- KIRSTEN C <3 BRC"
+            "text": "<p>La atención al cliente fue muy amable cuando tuve una duda con mi pedido. Lo resolvieron enseguida<br/></p>",
+            "author": "Isabel G"
           }
         },
         "testimonial_mQwaRF": {
           "type": "testimonial",
           "settings": {
+            "image": "shopify://shop_images/A5519e48c396e4cc38261d17fddeaed94G_jpeg_960x960q75_jpeg.avif",
             "stars_count": 5,
-            "text": "<p>'This things is the real deal. Love it so much.'</p>",
-            "author": "- VANESSA <3 GLAZE"
+            "text": "<p>Me encanta el estilo de esta tienda. Encuentro piezas que no veo en ningún otro sitio.<br/></p>",
+            "author": "Sofía T"
           }
         },
         "testimonial_adGqMU": {
