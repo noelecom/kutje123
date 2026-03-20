@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "liquid_U6KcFm": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n.tml-trustpilot-bar {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  margin-bottom: 16px;\n}\n\n.tml-stars {\n  display: flex;\n  gap: 3px;\n}\n\n.tml-star {\n  width: 22px;\n  height: 22px;\n  background-color: #00b67a;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n}\n\n.tml-star-half {\n  background: linear-gradient(to right, #00b67a 50%, #ddd 50%);\n}\n\n.tml-star svg {\n  width: 14px;\n  height: 14px;\n  fill: #fff;\n}\n\n.tml-trust-label {\n  font-size: 13px;\n  font-weight: 300;\n  color: #444;\n  letter-spacing: 0.02em;\n}\n\n.tml-trust-label strong {\n  font-weight: 500;\n  color: #1a1a1a;\n}\n</style>\n\n<div class=\"tml-trustpilot-bar\">\n  <div class=\"tml-stars\">\n    <div class=\"tml-star\">\n      <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2l2.9 6.1L22 9.2l-5 4.9 1.2 6.9L12 17.7l-6.2 3.3L7 14.1 2 9.2l7.1-1.1z\"/></svg>\n    </div>\n    <div class=\"tml-star\">\n      <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2l2.9 6.1L22 9.2l-5 4.9 1.2 6.9L12 17.7l-6.2 3.3L7 14.1 2 9.2l7.1-1.1z\"/></svg>\n    </div>\n    <div class=\"tml-star\">\n      <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2l2.9 6.1L22 9.2l-5 4.9 1.2 6.9L12 17.7l-6.2 3.3L7 14.1 2 9.2l7.1-1.1z\"/></svg>\n    </div>\n    <div class=\"tml-star\">\n      <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2l2.9 6.1L22 9.2l-5 4.9 1.2 6.9L12 17.7l-6.2 3.3L7 14.1 2 9.2l7.1-1.1z\"/></svg>\n    </div>\n    <div class=\"tml-star tml-star-half\">\n      <svg viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M12 2l2.9 6.1L22 9.2l-5 4.9 1.2 6.9L12 17.7l-6.2 3.3L7 14.1 2 9.2l7.1-1.1z\"/></svg>\n    </div>\n  </div>\n  <span class=\"tml-trust-label\"><strong>+1172 clientas satisfechas</strong></span>\n</div>"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -99,6 +105,7 @@
         }
       },
       "block_order": [
+        "liquid_U6KcFm",
         "title",
         "badges",
         "price",
