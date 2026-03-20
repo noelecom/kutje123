@@ -50,72 +50,44 @@
         "background_gradient": ""
       }
     },
-    "collection-list": {
-      "type": "collection-list",
+    "rich_text_a3xMx7": {
+      "type": "rich-text",
       "blocks": {
-        "collection_NFrXEB": {
-          "type": "collection",
+        "subheading_KRdRtd": {
+          "type": "subheading",
           "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "Dresses",
-            "url": "shopify://collections/dresses-v-new",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "text": "TIENDA MARIA LOPEZ"
           }
         },
-        "collection_8kjaBc": {
-          "type": "collection",
+        "heading_tLt6EA": {
+          "type": "heading",
           "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "Blazers",
-            "url": "shopify://collections/blazers-v-new",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "text": "Moda femenina con carácter.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "collection_AYhnCe": {
-          "type": "collection",
+        "richtext_MbkRmi": {
+          "type": "richtext",
           "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "Shorts",
-            "url": "shopify://collections/short-skirts-v-new",
-            "heading_tag": "h3",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
+            "content": "<p>Descubre piezas únicas que reflejan tu personalidad. Hecha para la mujer moderna.</p>"
           }
         }
       },
       "block_order": [
-        "collection_NFrXEB",
-        "collection_8kjaBc",
-        "collection_AYhnCe"
+        "subheading_KRdRtd",
+        "heading_tLt6EA",
+        "richtext_MbkRmi"
       ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_collections": false,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "SS25 Woman",
-        "content": "",
-        "link_url": "shopify://collections/blazers-v-new",
-        "link_text": "",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "text_color": ""
       }
     },
     "featured-collection": {
@@ -413,7 +385,7 @@
   },
   "order": [
     "slideshow_TJ8KBa",
-    "collection-list",
+    "rich_text_a3xMx7",
     "featured-collection",
     "image-with-text-overlay",
     "collection_list_aW83Wd",
