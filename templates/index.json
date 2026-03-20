@@ -200,6 +200,61 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_bFWNkj": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_UaHwEV": {
+          "type": "subheading",
+          "settings": {
+            "text": "NUESTRA FILOSOFÍA"
+          }
+        },
+        "heading_nAHRQK": {
+          "type": "heading",
+          "settings": {
+            "text": "Vestirte bien es quererte bien.",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_DHTcwm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>En Tienda Maria Lopez creemos que la moda es una forma de expresión. Cada pieza está elegida para que te sientas segura, cómoda y única.<br/><br/></p>"
+          }
+        },
+        "button_zNDMxX": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Descubre nuestra historia",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_UaHwEV",
+        "heading_nAHRQK",
+        "richtext_DHTcwm",
+        "button_zNDMxX"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "sm",
+        "image": "shopify://shop_images/c00770ebe2157047d9d040d71e9f08c0.jpg",
+        "mobile_image": "shopify://shop_images/c00770ebe2157047d9d040d71e9f08c0.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "featured_collection_3Uqkx8": {
       "type": "featured-collection",
       "settings": {
@@ -373,6 +428,7 @@
     "collection_list_gqJG8t",
     "featured-collection",
     "custom_liquid_aVAKCU",
+    "image_with_text_overlay_bFWNkj",
     "featured_collection_3Uqkx8",
     "media-grid",
     "faq"
