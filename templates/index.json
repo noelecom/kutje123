@@ -497,15 +497,15 @@
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Returns",
-            "content": "<p>Not quite satisfied? No worries! You can easily and quickly return your order within 30 days of receipt. We make sure the process goes smoothly, so you don't have to worry.</p>"
+            "title": "¿El envío es gratuito?",
+            "content": "<p>Sí, el envío es completamente gratuito en todos los pedidos, sin mínimo de compra.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Size",
-            "content": "<p>Our clothes fit exactly as indicated in the size chart. You will find the size chart with each product, so you can always choose the right size and be sure it fits perfectly.</p>"
+            "title": "¿Puedo devolver mi pedido?",
+            "content": "<p>Sí, aceptamos devoluciones dentro de los 14 días posteriores a la recepción del pedido. El artículo debe estar sin usar y con las etiquetas originales.</p>"
           }
         },
         "item_i7Uw3z": {
