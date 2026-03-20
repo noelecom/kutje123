@@ -396,7 +396,7 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/c00770ebe2157047d9d040d71e9f08c0.jpg",
+            "image": "shopify://shop_images/043373ed33691355b169a51bd9d164e2.jpg",
             "title": "Contacto",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
@@ -412,7 +412,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 43
+            "overlay_opacity": 34
           }
         },
         "item-1": {
@@ -440,7 +440,8 @@
         "image_GiUtXd": {
           "type": "image",
           "settings": {
-            "title": "About us",
+            "image": "shopify://shop_images/7e17d718ff85aeb19155fb4d1d120b68.jpg",
+            "title": "Sobre nosotras",
             "heading_tag": "h4",
             "link_url": "shopify://pages/about-us",
             "link_text": "",
@@ -455,7 +456,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 34
           }
         }
       },
