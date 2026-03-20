@@ -396,7 +396,8 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Contact",
+            "image": "shopify://shop_images/c00770ebe2157047d9d040d71e9f08c0.jpg",
+            "title": "Contacto",
             "heading_tag": "h4",
             "link_url": "shopify://pages/contact",
             "link_text": "",
@@ -411,7 +412,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 43
           }
         },
         "item-1": {
