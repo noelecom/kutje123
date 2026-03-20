@@ -168,8 +168,8 @@
               "icon_background_type": "none",
               "icon_background": "",
               "icon_color": "",
-              "title": "Free premium shipping",
-              "content": "<p>Always free shipping with Track & Trace with Royal Mail</p>"
+              "title": "Envío siempre gratuito",
+              "content": "<p>Todos nuestros pedidos se envían de forma completamente gratuita, sin mínimo de compra. Nos encargamos de que tu pedido llegue a tu puerta sin costes adicionales.</p>"
             }
           },
           "customer-support": {
@@ -181,8 +181,8 @@
               "icon_background_type": "none",
               "icon_background": "",
               "icon_color": "",
-              "title": "Customer service",
-              "content": "<p>Always available within 24 hours response</p>"
+              "title": "Atención al cliente en español",
+              "content": "<p>Estamos aquí para ayudarte en todo lo que necesites. Puedes contactarnos por correo electrónico y te responderemos lo antes posible en español.</p>"
             }
           },
           "discount": {
@@ -194,8 +194,8 @@
               "icon_background_type": "none",
               "icon_background": "",
               "icon_color": "",
-              "title": "100% Return Guarantee",
-              "content": "<p>Easy returns within 30 days</p>"
+              "title": "Devolución en 14 días",
+              "content": "<p>Si no estás satisfecha con tu compra, puedes devolvérla en un plazo de 14 días desde la recepción. Sin complicaciones ni preguntas.</p>"
             }
           },
           "payment": {
@@ -207,8 +207,8 @@
               "icon_background_type": "none",
               "icon_background": "",
               "icon_color": "",
-              "title": "Secure payment",
-              "content": "<p>Pay Securely And Quickly With Your Credit Card, Google pay, Apple pay, Shop pay and Paypal</p>"
+              "title": "Pago 100% seguro",
+              "content": "<p>Todas las transacciones están protegidas con cifrado SSL. Aceptamos tarjeta de crédito, débito y PayPal para que pagues como prefieras.</p>"
             }
           }
         },
