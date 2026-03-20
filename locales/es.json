@@ -413,5 +413,12 @@
         "other": "Ha recibido {{ count }} reseñas."
       }
     }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "pay_now_button_label": "Finalizar pedido — Envío gratis"
+      }
+    }
   }
 }
