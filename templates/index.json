@@ -418,6 +418,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/7a991f72f4da48becdadfa133fd34b18.jpg",
             "title": "Join Our Team",
             "heading_tag": "h4",
             "link_url": "shopify://pages/join-our-team",
@@ -433,7 +434,7 @@
             "button_background": "#000000",
             "button_text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_opacity": 36
           }
         },
         "image_GiUtXd": {
