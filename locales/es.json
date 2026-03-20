@@ -418,6 +418,9 @@
     "checkout": {
       "general": {
         "pay_now_button_label": "Finalizar pedido — Envío gratis"
+      },
+      "alternative_payment_method_banner": {
+        "express_checkout": "Pago rápido y 100% seguro"
       }
     }
   }
