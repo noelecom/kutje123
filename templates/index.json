@@ -511,8 +511,15 @@
         "item_i7Uw3z": {
           "type": "item",
           "settings": {
-            "title": "Neede more help?",
-            "content": "<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br/><br/>Email: info@beyondchiclondon.com<br/></p><p>Mon / Fri 09:00 - 17:00</p><p>Sat / Sun 10:00 - 17:00</p>"
+            "title": "¿Cómo sé qué talla elegir?",
+            "content": "<p>Cada producto tiene una guía de tallas en la página del producto. Si tienes dudas, escríbenos y te ayudamos a elegir.</p>"
+          }
+        },
+        "item_dKFBxk": {
+          "type": "item",
+          "settings": {
+            "title": "¿Qué métodos de pago aceptáis?",
+            "content": "<p>Aceptamos tarjeta de crédito, débito y PayPal</p>"
           }
         }
       },
@@ -520,7 +527,8 @@
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_i7Uw3z"
+        "item_i7Uw3z",
+        "item_dKFBxk"
       ],
       "settings": {
         "full_width": false,
