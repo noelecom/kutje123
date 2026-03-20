@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/4f52864a944f0a45146fff4302251cb0.jpg",
-            "content_max_width": 780,
+            "content_max_width": 560,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Tu estilo, tu esencia",
