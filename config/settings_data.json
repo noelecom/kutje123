@@ -44,6 +44,7 @@
     "product_color_display": "hide",
     "product_image_aspect_ratio": "natural",
     "product_info_alignment": "start",
+    "favicon": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo_3.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "sections": {
@@ -108,13 +109,14 @@
         "settings": {
           "enable_sticky": true,
           "hide_on_scroll": false,
+          "logo": "shopify://shop_images/Black_White_Minimalist_Brand_Fashion_Logo_3.png",
           "logo_max_width": 230,
           "logo_mobile_max_width": 160,
           "menu": "main-menu",
           "sidebar_menu": "",
           "secondary_menu": "",
           "menu_open_trigger": "click",
-          "opening_from": "bottom",
+          "opening_from": "left",
           "layout": "logo_left_navigation_center",
           "show_social_media": true,
           "show_locale_selector": true,
