@@ -158,6 +158,154 @@
         "product_card_text_color": ""
       }
     },
+    "ss_testimonial_10_cdTAx3": {
+      "type": "ss-testimonial-10",
+      "blocks": {
+        "testimonial_RPYMFG": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/A88ef7332438f4f9389e7b7ecd6968d80I_jpg_960x960q75_jpg.avif",
+            "stars_count": 5,
+            "text": "<p>El vestido llegó antes de lo esperado y la calidad es mucho mejor de lo que pensaba. Lo llevé a una boda y recibí muchísimos cumplidos</p>",
+            "author": "Carmen R"
+          }
+        },
+        "testimonial_a4PERP": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/A3d2cb6d0fa7e4f62be1531004118c26cV_jpg_960x960q75_jpg.avif",
+            "stars_count": 5,
+            "text": "<p>Talla perfecta, los colores son exactamente como en las fotos. Repetiré sin duda.<br/></p>",
+            "author": "Lucía M."
+          }
+        },
+        "testimonial_6RRfaw": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/A333003cec0f24c9988288e6ff6c293ffp_jpeg_960x960q75_jpeg.avif",
+            "stars_count": 5,
+            "text": "<p>La atención al cliente fue muy amable cuando tuve una duda con mi pedido. Lo resolvieron enseguida<br/></p>",
+            "author": "Isabel G"
+          }
+        },
+        "testimonial_p9J8yy": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/A5519e48c396e4cc38261d17fddeaed94G_jpeg_960x960q75_jpeg.avif",
+            "stars_count": 5,
+            "text": "<p>Me encanta el estilo de esta tienda. Encuentro piezas que no veo en ningún otro sitio.<br/></p>",
+            "author": "Sofía T"
+          }
+        },
+        "testimonial_gzgHAK": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/Ad0fbba6adfa6496d9c0c9908d2cca638j_jpg_960x960q75_jpg.avif",
+            "stars_count": 5,
+            "text": "<p>Devolución súper fácil cuando pedí una talla de más. Sin complicaciones<br/></p>",
+            "author": "Ana P"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_RPYMFG",
+        "testimonial_a4PERP",
+        "testimonial_6RRfaw",
+        "testimonial_p9J8yy",
+        "testimonial_gzgHAK"
+      ],
+      "name": "SS - Testimonials #10",
+      "settings": {
+        "body_padding_vertical": 50,
+        "body_padding_vertical_mobile": 16,
+        "body_padding_horizontal": 50,
+        "body_padding_horizontal_mobile": 16,
+        "body_radius": 12,
+        "body_border_thickness": 0,
+        "heading": "<p>Lo que dicen nuestras clientas</p>",
+        "heading_custom": false,
+        "heading_font": "cormorant_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 150,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "sub_heading": "<p>OPINIONES REALES</p>",
+        "sub_heading_custom": false,
+        "sub_heading_font": "cormorant_n4",
+        "sub_heading_size": 18,
+        "sub_heading_size_mobile": 14,
+        "sub_heading_height": 150,
+        "slider_view": 3.7,
+        "slider_view_mobile": 1,
+        "slider_gap": 36,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "image_radius": 12,
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "stars_size": 20,
+        "stars_mt": 24,
+        "stars_align": "start",
+        "stars_align_mobile": "start",
+        "text_custom": false,
+        "text_font": "cormorant_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "left",
+        "text_align_mobile": "left",
+        "author_custom": false,
+        "author_font": "cormorant_n4",
+        "author_size": 20,
+        "author_size_mobile": 16,
+        "author_height": 130,
+        "author_mt": 8,
+        "author_align": "left",
+        "author_align_mobile": "left",
+        "arrow_size": 50,
+        "arrow_size_mobile": 42,
+        "arrow_icon_size": 40,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_mt": 32,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "body_bg_color": "#ffffff",
+        "body_border_color": "#000000",
+        "stars_color": "#00b67a",
+        "text_color": "#1a1a1a",
+        "author_color": "#1a1a1a",
+        "arrow_color": "#00b67a",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#756e67",
+        "arrow_border_color": "#756e67",
+        "arrow_border_hover_color": "#756e67",
+        "dots_color": "#756e67",
+        "heading_color": "#000000",
+        "sub_heading_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "1738002897803478fa": {
       "type": "apps",
       "blocks": {
@@ -190,6 +338,7 @@
   },
   "order": [
     "main",
+    "ss_testimonial_10_cdTAx3",
     "featured_collection_fFfDyi",
     "1738002897803478fa"
   ]
