@@ -133,31 +133,6 @@
         "input_text_color": ""
       }
     },
-    "featured_collection_fFfDyi": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "vestidos",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 4,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "SS26",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "ss_testimonial_10_cdTAx3": {
       "type": "ss-testimonial-10",
       "blocks": {
@@ -306,6 +281,107 @@
         "lazy": true
       }
     },
+    "featured_collection_fFfDyi": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "vestidos",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "SS26",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "faq_zpzKrc": {
+      "type": "faq",
+      "blocks": {
+        "item_b74JQG": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cuánto tarda en llegar mi pedido?",
+            "content": "<p>Los pedidos se entregan en un plazo de 7 a 12 días hábiles. Recibirás un correo con el número de seguimiento en cuanto salga tu pedido.</p>"
+          }
+        },
+        "item_mqXTXC": {
+          "type": "item",
+          "settings": {
+            "title": "¿El envío es gratuito?",
+            "content": "<p>Sí, el envío es completamente gratuito en todos los pedidos, sin mínimo de compra.</p>"
+          }
+        },
+        "item_gLXHpT": {
+          "type": "item",
+          "settings": {
+            "title": "¿Puedo devolver mi pedido?",
+            "content": "<p>Sí, aceptamos devoluciones dentro de los 14 días posteriores a la recepción del pedido. El artículo debe estar sin usar y con las etiquetas originales.</p>"
+          }
+        },
+        "item_UmxzNQ": {
+          "type": "item",
+          "settings": {
+            "title": "¿Cómo sé qué talla elegir?",
+            "content": "<p>Cada producto tiene una guía de tallas en la página del producto. Si tienes dudas, escríbenos y te ayudamos a elegir.</p>"
+          }
+        },
+        "item_yeU9Mp": {
+          "type": "item",
+          "settings": {
+            "title": "¿Qué métodos de pago aceptáis?",
+            "content": "<p>Aceptamos tarjeta de crédito, débito y PayPal</p>"
+          }
+        },
+        "item_eyUVPg": {
+          "type": "item",
+          "settings": {
+            "title": "¿Puedo cambiar o cancelar mi pedido?",
+            "content": "<p>Si necesitas hacer un cambio o cancelación, contáctanos lo antes posible. Intentamos gestionar los pedidos rápidamente, pero haremos todo lo posible para ayudarte.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_b74JQG",
+        "item_mqXTXC",
+        "item_gLXHpT",
+        "item_UmxzNQ",
+        "item_yeU9Mp",
+        "item_eyUVPg"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "Preguntas frecuentes",
+        "content": "<p>¡Respuestas a todas tus dudas!</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Lun / Vie 09:00 - 17:00Sáb / Dom 10:00 - 17:00",
+        "answer_time": "Respuesta en menos de 24 horas",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "1738002897803478fa": {
       "type": "apps",
       "blocks": {
@@ -340,6 +416,7 @@
     "main",
     "ss_testimonial_10_cdTAx3",
     "featured_collection_fFfDyi",
+    "faq_zpzKrc",
     "1738002897803478fa"
   ]
 }
