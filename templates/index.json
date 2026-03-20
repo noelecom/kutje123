@@ -443,7 +443,7 @@
             "image": "shopify://shop_images/7e17d718ff85aeb19155fb4d1d120b68.jpg",
             "title": "Sobre nosotras",
             "heading_tag": "h4",
-            "link_url": "shopify://pages/about-us",
+            "link_url": "shopify://pages/sobre-nosotras",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
