@@ -73,14 +73,14 @@
         "feature_rating_e9piMR": {
           "type": "feature-rating",
           "settings": {
-            "heading": "Fit",
+            "heading": "Talla",
             "segments": 5,
             "active_segment": "3",
             "fill_segments": true,
             "show_labels": true,
-            "label_left": "Runs smal",
-            "label_middle": "True to size",
-            "label_right": "Runs big",
+            "label_left": "Talla pequeño",
+            "label_middle": "Talla correcta",
+            "label_right": "Talla grande",
             "show_in_quickbuy": false
           }
         },
