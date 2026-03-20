@@ -521,6 +521,13 @@
             "title": "¿Qué métodos de pago aceptáis?",
             "content": "<p>Aceptamos tarjeta de crédito, débito y PayPal</p>"
           }
+        },
+        "item_yfLUAB": {
+          "type": "item",
+          "settings": {
+            "title": "¿Puedo cambiar o cancelar mi pedido?",
+            "content": "<p>Si necesitas hacer un cambio o cancelación, contáctanos lo antes posible. Intentamos gestionar los pedidos rápidamente, pero haremos todo lo posible para ayudarte.</p>"
+          }
         }
       },
       "block_order": [
@@ -528,7 +535,8 @@
         "166442457738b23caf-1",
         "166442457738b23caf-2",
         "item_i7Uw3z",
-        "item_dKFBxk"
+        "item_dKFBxk",
+        "item_yfLUAB"
       ],
       "settings": {
         "full_width": false,
