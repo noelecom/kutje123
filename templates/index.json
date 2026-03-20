@@ -187,6 +187,19 @@
         "product_card_text_color": ""
       }
     },
+    "custom_liquid_aVAKCU": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div class=\"tml-trust-bar\">\n\n  <div class=\"tml-trust-item\">\n    <svg viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M2 8h20v14H2z\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/>\n      <path d=\"M22 12h4l4 5v5h-8V12z\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/>\n      <circle cx=\"8\" cy=\"24\" r=\"2.5\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n      <circle cx=\"24\" cy=\"24\" r=\"2.5\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n    </svg>\n    <div class=\"tml-trust-text\">\n      <span class=\"tml-trust-title\">Envío gratis</span>\n      <span class=\"tml-trust-sub\">En pedidos desde €35</span>\n    </div>\n  </div>\n\n  <div class=\"tml-trust-item\">\n    <svg viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M6 16A10 10 0 1 1 16 26\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\"/>\n      <path d=\"M6 22v-6h6\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>\n    </svg>\n    <div class=\"tml-trust-text\">\n      <span class=\"tml-trust-title\">Devolución fácil</span>\n      <span class=\"tml-trust-sub\">14 días sin preguntas</span>\n    </div>\n  </div>\n\n  <div class=\"tml-trust-item\">\n    <svg viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <rect x=\"6\" y=\"14\" width=\"20\" height=\"14\" rx=\"2\" stroke=\"currentColor\" stroke-width=\"1.5\"/>\n      <path d=\"M11 14v-4a5 5 0 0 1 10 0v4\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linecap=\"round\"/>\n      <circle cx=\"16\" cy=\"21\" r=\"2\" fill=\"currentColor\"/>\n    </svg>\n    <div class=\"tml-trust-text\">\n      <span class=\"tml-trust-title\">Pago seguro</span>\n      <span class=\"tml-trust-sub\">SSL & métodos verificados</span>\n    </div>\n  </div>\n\n  <div class=\"tml-trust-item\">\n    <svg viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path d=\"M16 28C16 28 4 22 4 13a7 7 0 0 1 12-4.9A7 7 0 0 1 28 13c0 9-12 15-12 15z\" stroke=\"currentColor\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/>\n    </svg>\n    <div class=\"tml-trust-text\">\n      <span class=\"tml-trust-title\">Atención al cliente</span>\n      <span class=\"tml-trust-sub\">Respondemos en español</span>\n    </div>\n  </div>\n\n</div>\n\n<style>\n.tml-trust-bar {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  padding: 36px 60px;\n  border-top: 1px solid #e8e8e8;\n  border-bottom: 1px solid #e8e8e8;\n  background: #ffffff;\n  gap: 20px;\n}\n\n.tml-trust-item {\n  display: flex;\n  align-items: center;\n  gap: 14px;\n  flex: 1;\n  color: #1a1a1a;\n}\n\n.tml-trust-item:not(:last-child) {\n  border-right: 1px solid #e8e8e8;\n  padding-right: 20px;\n}\n\n.tml-trust-item svg {\n  width: 30px;\n  height: 30px;\n  flex-shrink: 0;\n  opacity: 0.7;\n}\n\n.tml-trust-text {\n  display: flex;\n  flex-direction: column;\n  gap: 3px;\n}\n\n.tml-trust-title {\n  font-family: 'DM Sans', sans-serif;\n  font-size: 11px;\n  font-weight: 500;\n  letter-spacing: 0.12em;\n  text-transform: uppercase;\n  color: #1a1a1a;\n}\n\n.tml-trust-sub {\n  font-family: 'DM Sans', sans-serif;\n  font-size: 12px;\n  font-weight: 300;\n  color: #888888;\n}\n\n@media (max-width: 768px) {\n  .tml-trust-bar {\n    flex-direction: column;\n    padding: 30px 24px;\n    gap: 24px;\n  }\n\n  .tml-trust-item {\n    width: 100%;\n    border-right: none !important;\n    padding-right: 0 !important;\n    border-bottom: 1px solid #e8e8e8;\n    padding-bottom: 24px;\n  }\n\n  .tml-trust-item:last-child {\n    border-bottom: none;\n    padding-bottom: 0;\n  }\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
@@ -460,6 +473,7 @@
     "rich_text_a3xMx7",
     "collection_list_gqJG8t",
     "featured-collection",
+    "custom_liquid_aVAKCU",
     "image-with-text-overlay",
     "collection_list_aW83Wd",
     "featured_collection_3Uqkx8",
