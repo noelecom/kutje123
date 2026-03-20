@@ -238,8 +238,8 @@
               "image": "{{shop.brand.logo}}",
               "image_width": 150,
               "heading_size": "h3",
-              "title": "Get a chance to win £100 shopping credit",
-              "content": "<p>Every month we give £100 to one of our loyal Beyond Chic customers!</p>"
+              "title": "Heading: Gana un crédito de €100 para tu próxima compra",
+              "content": "<p><br/>Cada mes sorteamos €100 en crédito entre nuestras clientas. ¡Suscríbete y participa gratis!<br/><br/></p>"
             }
           },
           "links": {
