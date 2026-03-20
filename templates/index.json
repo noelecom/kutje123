@@ -111,7 +111,8 @@
         "collection_7QLCJH": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "botines",
+            "image": "shopify://shop_images/95727dbc634051aa72e8b3649775fe71.jpg",
             "subheading": "",
             "title": "",
             "url": "",
@@ -125,7 +126,8 @@
         "collection_iiPYij": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "nueva-coleccion",
+            "image": "shopify://shop_images/333_a9755291-29b9-42e8-9fb2-7715733d19ec.png",
             "subheading": "",
             "title": "",
             "url": "",
