@@ -525,8 +525,8 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "Frequently Asked Questions",
-        "content": "<p>Answer to all your questions!</p>",
+        "title": "Preguntas frecuentes",
+        "content": "<p>¡Respuestas a todas tus dudas!</p>",
         "team_avatar_width": 160,
         "support_hours": "Mon / Fri 09:00 - 17:00Sat / Sun 10:00 - 17:00",
         "answer_time": "Response within 24 hours",
