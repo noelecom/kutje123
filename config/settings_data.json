@@ -54,35 +54,35 @@
           "message": {
             "type": "message",
             "settings": {
-              "text": "FINAL SALE, EVERYTHING MUST GO",
+              "text": "ENVÍO GRATIS",
               "url": ""
             }
           },
           "message_GNqkFX": {
             "type": "message",
             "settings": {
-              "text": "ORDER BEFORE 11:00 PM, SHIPPED TODAY",
+              "text": "DEVOLUCIÓN FÁCIL EN 14 DÍAS",
               "url": ""
             }
           },
           "message_CGMRrw": {
             "type": "message",
             "settings": {
-              "text": "LIMITED STOCK, ONCE IT'S GONE, IT'S GONE",
+              "text": "PAGO 100% SEGURO",
               "url": ""
             }
           },
           "message_qaTgBz": {
             "type": "message",
             "settings": {
-              "text": "100% MONEY BACK GUARANTEE",
+              "text": "NUEVA COLECCIÓN DISPONIBLE AHORA",
               "url": ""
             }
           },
           "message_3aWaUe": {
             "type": "message",
             "settings": {
-              "text": "ALWAYS FREE PREMIUM SHIPPING",
+              "text": "ATENCIÓN AL CLIENTE EN ESPAÑOL",
               "url": ""
             }
           }
