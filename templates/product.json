@@ -76,6 +76,10 @@
             "payment_button_text_color": ""
           }
         },
+        "conversion_bear_trust_badges_widget_UT4VDW": {
+          "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        },
         "liquid_z6LpBE": {
           "type": "liquid",
           "settings": {
@@ -121,6 +125,7 @@
         "variant_picker",
         "payment_terms",
         "buy_buttons",
+        "conversion_bear_trust_badges_widget_UT4VDW",
         "liquid_z6LpBE",
         "feature_rating_e9piMR",
         "image_BirJDm",
