@@ -1,1 +1,42 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{}},"contact":{"type":"contact","settings":{"full_width":true,"subheading":"Contact Us","title":"Need help?","content":"<p>Have a question or need advice? Don’t hesitate to contact us. We are here to assist you and provide expert guidance.<br\/><br\/><strong>Email<\/strong>: info@beyondchiclondon.com<br\/><br\/>Mon \/ Fri 09:00 - 17:00<\/p><p>Sat \/ Sun 10:00 - 17:00<\/p>","text_position":"start","contact_form_size":"large","background":"","background_gradient":"","text_color":"","heading_color":"","heading_gradient":"","contact_background":"","contact_text_color":"","button_background":"","button_text_color":""}}},"order":["main","contact"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "contact": {
+      "type": "contact",
+      "settings": {
+        "full_width": true,
+        "subheading": "Contáctanos",
+        "title": "¿Necesitas ayuda?",
+        "content": "<p><strong>¿Tienes alguna pregunta o necesitas consejo?</strong> No dudes en contactarnos. Estamos aquí para ayudarte y orientarte con la mejor atención.</p><p><strong>Email:</strong> info@tiendamarialopez.es</p><p><strong>Lun / Vie</strong> 09:00 - 17:00</p><p><strong>Sáb / Dom</strong> 10:00 - 17:00</p>",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact"
+  ]
+}
